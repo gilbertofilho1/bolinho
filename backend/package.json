@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "start": "node app",
     "dev": "nodemon src/index.js"
   },
   "dependencies": {
